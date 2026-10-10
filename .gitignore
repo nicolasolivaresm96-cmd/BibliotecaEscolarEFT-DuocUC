@@ -1,0 +1,14 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos generados por Maven
+target/
+
+# Archivos del sistema macOS
+.DS_Store
+
+# Variables de entorno y credenciales
+.env
+.env.*
+*.properties.local
